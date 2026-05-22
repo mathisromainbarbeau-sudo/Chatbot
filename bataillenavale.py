@@ -12,7 +12,7 @@ This is a temporary script file.
 
 # Voici les différentes grilles utilisées pour l'affichage :
 
-
+# TEST lindsey
 
 
 # Fonction "Generer_Grill() qui prend en entrée une taille et qui génère et renvoie une liste
@@ -311,6 +311,8 @@ bat = [['porte-avion', 5, 0],
 grille_tir=[[1, 1, 1, 1, 1, 1, 1, 1, 1, 1],[1, 1, 1, 1, 1, 1, 1, 1, 1, 1],[1, 1, 1, 1, 1, 1, 1, 1, 1, 1],[1, 1, 1, 1, 1, 1, 1, 1, 1, 1],[1, 1, 1, 1, 1, 1, 1, 1, 1, 1],[1, 1, 1, 1, 1, 1, 1, 1, 1, 1],[1, 1, 1, 1, 1, 1, 1, 1, 1, 1],[1, 1, 1, 1, 1, 1, 1, 1, 1, 1],[1, 1, 1, 1, 1, 1, 1, 1, 1, 1],[1, 1, 1, 1, 1, 1, 1, 1, 1, 1]]    
 
 print(Boucle_Jeu())
+
+
 
 
 
